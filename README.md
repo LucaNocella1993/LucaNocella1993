@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+Graduated with a Bachelor of Computer Science at the "Parthenope" University of Naples, I currently work as Java back-end Developer since many years.
+
 <!---
 LucaNocella1993/LucaNocella1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
