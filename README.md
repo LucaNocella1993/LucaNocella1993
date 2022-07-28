@@ -10,7 +10,7 @@ e-mail: [luca.nocella@hotmail.com](luca.nocella@hotmail.com)
 
 linkedin: [https://www.linkedin.com/in/luca-nocella-6488aa153/](https://www.linkedin.com/in/luca-nocella-6488aa153/)
 
-
+![alt text](https://github.com/LucaNocella1993/LucaNocella1993/blob/master/Oracle_Professional_Badge__1_.png?raw=true)
 
 <!---
 LucaNocella1993/LucaNocella1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
