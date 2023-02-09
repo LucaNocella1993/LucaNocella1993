@@ -1,6 +1,6 @@
 ### Me:
 
-👋 Hi, I’m Luca Nocella, graduated with a Bachelor of Computer Science at the "Parthenope" University of Naples, and a participant in the training course of the Apple Developer Academy at the "Federico II" University of Naples, I currently work as a Java Developer with purely back-end tasks since many years.
+👋 Hi, I’m Luca Nocella, graduated with a Bachelor of Computer Science at the "Parthenope" University of Naples, and a participant in the training course of the Apple Developer Academy at the "Federico II" University of Naples, I currently work as a Senior Java Developer with purely back-end tasks since many years.
 
 I’m interested in Java and all that concerns the back-end side of the applications, in particular, I work with the framework Spring Boot.
 
