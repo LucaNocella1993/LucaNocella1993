@@ -7,7 +7,9 @@ I currently work as a certified Senior Java Full Stack Engineer, specialized in 
 
 e-mail: [luca.nocella@hotmail.com](luca.nocella@hotmail.com)
 
-linkedin: [https://www.linkedin.com/in/luca-nocella-6488aa153/](https://www.linkedin.com/in/luca-nocella-6488aa153/)
+Linkedin: [https://www.linkedin.com/in/luca-nocella-6488aa153/](https://www.linkedin.com/in/luca-nocella-6488aa153/)
+
+Credly: [https://www.credly.com/users/luca-nocella/badges](https://www.credly.com/users/luca-nocella/badges)
 
 <img src="https://github.com/LucaNocella1993/LucaNocella1993/blob/master/cover-image-Java-for-Linkedin-with-logos.jfif?raw=true" width="80%" height="80%">
 
