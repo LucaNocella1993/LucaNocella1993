@@ -11,7 +11,7 @@ Linkedin: [https://www.linkedin.com/in/luca-nocella-6488aa153/](https://www.link
 
 Credly: [https://www.credly.com/users/luca-nocella/badges](https://www.credly.com/users/luca-nocella/badges)
 
-<img src="https://github.com/LucaNocella1993/LucaNocella1993/blob/master/cover-image-Java-for-Linkedin-with-logos.jfif?raw=true" width="80%" height="80%">
+<img src="https://github.com/LucaNocella1993/LucaNocella1993/blob/master/cover-image-Java-for-Linkedin-with-logos.jfif?raw=true" width="100%" height="100%">
 
 <!---
 LucaNocella1993/LucaNocella1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
